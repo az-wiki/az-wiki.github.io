@@ -10,7 +10,7 @@ site_description: Anomaly Zone WIKI - База Данных Квестов
 # Автор (или авторы) сайта. Добавляется в html-заголовок каждой страницы.
 site_author: Sentinel
 
-#site_dir: ""
+site_dir: docs
 
 repo_name: az-wiki/az-wiki.github.io
 repo_url: https://github.com/az-wiki/az-wiki.github.io
